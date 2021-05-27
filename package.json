@@ -1,6 +1,6 @@
 {
   "name": "serverinfo",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A bot to display information about a server",
   "main": "src/index.js",
   "scripts": {
