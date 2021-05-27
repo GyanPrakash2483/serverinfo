@@ -1,0 +1,25 @@
+{
+  "name": "serverinfo",
+  "version": "0.1.0",
+  "description": "A bot to display information about a server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "config": "node ./src/config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GyanPrakash2483/serverinfo.git"
+  },
+  "author": "Gyan Prakash",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/GyanPrakash2483/serverinfo/issues"
+  },
+  "homepage": "https://github.com/GyanPrakash2483/serverinfo#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "readline-sync": "^1.4.10"
+  }
+}
