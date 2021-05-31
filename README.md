@@ -1,6 +1,9 @@
 # serverinfo
 A bot to display information about a server
 
+# Invite the bot
+[https://discord.com/api/oauth2/authorize?client_id=847388318131683339&permissions=777344&scope=bot](https://discord.com/api/oauth2/authorize?client_id=847388318131683339&permissions=777344&scope=bot)
+
 # Commands
 
 !serverinfo: Displays all information about the server
