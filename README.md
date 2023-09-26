@@ -56,12 +56,3 @@ A bot to display information about a server
 ```node .```
 
 
-# Support Project
-
-Bitcoin: ```bc1qrd9yshgvaw6av0atk5jtlmfc29tslur8xjmgu2```
-
-Etherium: ```0x06D7D35A102c6E86F07F1885B12CA0e73EB07813```
-
-Dogecoin: ```DFRg7V48pXsNq19qLX5boXkVnJoSZmCHWr```
-
-Litecoin: ```ltc1qstgs5lcluxkuhulyzgek4nrwnzvp86d4u66lag```
